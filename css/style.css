@@ -1,0 +1,16 @@
+@media screen {
+    
+}
+@media {
+    max-width: 500px;
+}
+body
+{
+    background-color: grey;
+}
+img
+{
+    height: 500px;
+    width: 400px;
+    border-radius: 50%;
+}
